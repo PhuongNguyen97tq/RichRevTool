@@ -1,0 +1,4 @@
+- Thêm các mẫu video
+- Thêm mục fix tool
+- Thêm hiệu ứng đầu vào video
+- Mục thay đổi tốc độ video
